@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Pilar Infocom Nusantara
 - 🌱 I’m currently learning PHP/JS Vanilla
 
+よろしくね！　🙏
+
 <!--
 **denzveloper/denzveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
