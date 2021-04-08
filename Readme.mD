@@ -1,6 +1,5 @@
 ### Hi there, I am DzEN/DzEN 👋
 
-- 🔭 I’m currently working on Pilar Infocom Nusantara
 - 🌱 I’m currently learning PHP/JS Vanilla
 
 よろしくね！　🙏
