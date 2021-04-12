@@ -4,7 +4,7 @@
 
 "*Clouds over the Moon, and Wind over the Flowers*"
 
-よろしくね！　🙏
+Nice to Meet You！ 😉
 
 <!--
 **denzveloper/denzveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
