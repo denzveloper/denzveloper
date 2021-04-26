@@ -12,7 +12,7 @@ Nice to Meet You！ 😉
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/denzveloper/count.svg" />
+  <img src="https://profile-counter.glitch.me/denzveloper/count.svg" /></br>
   🍱 🛌🏻 🖥️ 🎬 🎧 🎤 🚲 🌏 🔁
 </p>
 
