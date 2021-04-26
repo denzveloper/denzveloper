@@ -4,6 +4,7 @@
 - 💻 GNU/Linux User (Manjaro Linux)
 - 🎶 Listening Music is My Hobbies
 - 🏡 Lives in Indonesia
+- **東方 Project, 物語シリーズ**
 
 "*Clouds over the Moon, and Wind over the Flowers*"
 
