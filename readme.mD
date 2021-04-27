@@ -10,11 +10,10 @@
 
 Nice to Meet You！ 😉 
 
-<p align="center"> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html)
-![soramimi's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40)
-</br>
-</br>
+![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40)
+
+<p align="center">
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/denzveloper/count.svg" /></br>
   🍱 🛌🏻 🖥️ 🎬 🎧 🎤 🚲 🌏 🔁
