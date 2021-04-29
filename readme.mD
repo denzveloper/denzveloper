@@ -10,8 +10,8 @@
 
 Nice to Meet You！ 😉 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html)
-![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=bear)
+![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=bear)
 
 <p align="center">
   Visitor count</br>
