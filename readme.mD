@@ -10,7 +10,8 @@
 
 Nice to Meet You！ 😉 
 
-<p align="center">
+<hr>
+<div align="center">
   
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
  ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
@@ -19,7 +20,7 @@ Nice to Meet You！ 😉
   Visitor count</br>
   <img src="https://profile-counter.glitch.me/denzveloper/count.svg" /></br>
   🍱 🛌🏻 🖥️ 🎬 🎧 🎤 🚲 🌏 🔁
-</p>
+</div>
 
 <!--
 **denzveloper/denzveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
