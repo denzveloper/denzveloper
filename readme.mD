@@ -12,7 +12,6 @@ Nice to Meet You！ 😉
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
 ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
-
 [![Spotify](https://novatorem-denzveloper.vercel.app/api/spotify)](https://open.spotify.com/user/314qkaftvxwsgxbp2lr4gwjddk44)
 
 <p align="center">
