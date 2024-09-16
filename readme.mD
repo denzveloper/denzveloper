@@ -1,9 +1,10 @@
-### Hi there, I am DzEN/DzEN 👋
+### Hi there, I am DzEN/DzEN or Denzveloper 👋
 
-- 🌱 I’m currently learning PHP/JS Vanilla
-- 💻 GNU/Linux User (Manjaro Linux)
+- 🌱 I’m currently learning PHP/JS Vanilla, IoT, Networking
+- 💻 GNU/Linux User (openSUSE and EndeavourOS)
 - 🎶 Listening Music is My Hobbies
-- 🏡 Lives in Indonesia
+- 🏡 Lives in Indonesia 🇮🇩
+- 💼 Linkedin profile is ![Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
 - **東方 Project, 物語シリーズ**
 
 "*Clouds over the Moon, and Wind over the Flowers*"
