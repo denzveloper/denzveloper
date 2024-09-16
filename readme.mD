@@ -4,7 +4,7 @@
 - 💻 GNU/Linux User (openSUSE and EndeavourOS)
 - 🎶 Listening Music is My Hobbies
 - 🏡 Lives in Indonesia 🇮🇩
-- 💼 Linkedin profile is ![Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
+- 💼 Linkedin profile is [Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
 - **東方 Project, 物語シリーズ**
 
 "*Clouds over the Moon, and Wind over the Flowers*"
