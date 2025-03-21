@@ -1,13 +1,14 @@
 ### Hi there, I am DzEN/DzEN or Denzveloper 👋
 
-- 🌱 I’m currently learning PHP/JS Vanilla, IoT, Networking
+- 🌱 I’m currently learning PHP, Javascript, TypeScript, IoT, Networking
 - 💻 GNU/Linux User (openSUSE and EndeavourOS)
-- 🎶 Listening Music is My Hobbies
+- 🎶 Listening Music is My Hobbies, also travelling
 - 🏡 Lives in Indonesia 🇮🇩
 - 💼 Linkedin profile is [Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
-- **東方 Project, 物語シリーズ**
+- 🎭 Fandom of **東方 Project, 物語シリーズ**
 
 "*Clouds over the Moon, and Wind over the Flowers*"
+
 
 Nice to Meet You！ 😉 
 
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
