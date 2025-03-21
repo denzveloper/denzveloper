@@ -1,4 +1,4 @@
-### Hi there, I am DzEN/DzEN or Denzveloper 👋
+### Hi there, I am DzEN/DzEN (Denzveloper) 👋
 
 - 🌱 I’m currently learning PHP, Javascript, TypeScript, IoT, Networking
 - 💻 GNU/Linux User (openSUSE and EndeavourOS)
@@ -6,6 +6,7 @@
 - 🏡 Lives in Indonesia 🇮🇩
 - 💼 Linkedin profile is [Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
 - 🎭 Fandom of **東方 Project, 物語シリーズ**
+- 🔎 You can find me with the username init.dzen
 
 "*Clouds over the Moon, and Wind over the Flowers*"
 
