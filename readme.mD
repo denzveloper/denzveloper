@@ -1,4 +1,4 @@
-### Hi there, I am DzEN/DzEN (Denzveloper) 👋
+### Hi there, I am init.DzEN 👋
 
 - 🌱 I’m currently learning PHP, Javascript, TypeScript, IoT, Networking
 - 💻 GNU/Linux User (openSUSE and EndeavourOS)
