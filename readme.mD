@@ -1,7 +1,7 @@
 ### Hi there, I am init.DzEN 👋
 
-- 🌱 I’m currently learning PHP, Javascript, TypeScript, IoT, Networking
-- 💻 GNU/Linux User (openSUSE and EndeavourOS)
+- 🌱 I’m currently learning PHP, Javascript, TypeScript, IoT, Networking, AI
+- 💻 GNU/Linux User (openSUSE and EndeavourOS) w/ KDE Plasma Deskop
 - 🎶 Listening Music is My Hobbies, also travelling
 - 🏡 Lives in Indonesia 🇮🇩
 - 💼 Linkedin profile is [Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
