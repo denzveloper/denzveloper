@@ -15,7 +15,8 @@ Nice to Meet You！ 😉
 
 <hr>
 <div align="center">
-  
+
+ ![IMPHEN Cert](https://github.com/user-attachments/assets/336a2bab-3578-45b3-ab78-252deee01239)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
  ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
  [![Spotify](https://novatorem-denzveloper.vercel.app/api/spotify)](https://open.spotify.com/user/314qkaftvxwsgxbp2lr4gwjddk44)
