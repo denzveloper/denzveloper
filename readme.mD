@@ -17,7 +17,7 @@ Nice to Meet You！ 😉
 <hr>
 <div align="center">
 
- [![IMPHNEN Cert](https://github.com/user-attachments/assets/3b60f2b7-910d-46f5-8beb-54b4ea15d208)](https://www.facebook.com/groups/1032515944638255)
+ [![Kalo ngeliat ini berarti PC-lu Busuk :p](https://github.com/user-attachments/assets/3b60f2b7-910d-46f5-8beb-54b4ea15d208)](https://www.facebook.com/groups/1032515944638255)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denzveloper&hide=html&theme=react)
  ![DzEN's github stats](https://github-readme-stats.vercel.app/api?username=denzveloper&show_icons=true&count_private=true&line_height=40&theme=react)
  [![Spotify](https://novatorem-denzveloper.vercel.app/api/spotify)](https://open.spotify.com/user/314qkaftvxwsgxbp2lr4gwjddk44)
