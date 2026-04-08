@@ -1,7 +1,7 @@
 ### Hi there, I am init.DzEN 👋
 
 - 🌱 I’m currently learning PHP, Javascript, TypeScript, IoT, Networking, AI
-- 💻 GNU/Linux User (openSUSE and EndeavourOS) w/ KDE Plasma Desktop
+- 💻 GNU/Linux User (Artix Linux [dinit] and EndeavourOS) w/ KDE Plasma Desktop
 - 🎶 Listening Music is My Hobbies, also travelling
 - 🏡 Lives in Indonesia 🇮🇩
 - 🌏 Blogs [goBlog](https://denzveloper.github.io/)
