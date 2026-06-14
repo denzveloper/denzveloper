@@ -11,6 +11,7 @@
 - 🎭 Fandom of **東方 Project, 物語シリーズ**
 - 🔎 You can find me with the username init.dzen
 - ❓ Have any Question or Something? DM ME!
+- 📃 My CV is [here](https://github.com/user-attachments/files/28929519/CV.pdf) (Indonesian)
 
 "*Clouds over the Moon, and Wind over the Flowers*"
 
