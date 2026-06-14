@@ -7,11 +7,11 @@
 - 🗣️ Language: Indonesian, English
 - 💼 Linkedin profile is: [Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
 - 🌏 Blogs: [goBlog](https://denzveloper.github.io/) or [Mirror IPv6](https://dzen2x.freeddns.org:8080)
-- 🛩️ Aeroplane Tracker Project: [PiAware SkyAware](https://dzen2x.freeddns.org:8888)
+- 🛩️ Aeroplane Tracker Project: [PiAware SkyAware IPv6](https://dzen2x.freeddns.org:8888)
 - 🎭 Fandom of **東方 Project, 物語シリーズ**
 - 🔎 You can find me with the username init.dzen
 - ❓ Have any Question or Something? DM ME!
-- 📃 My CV is [here](https://github.com/user-attachments/files/28929519/CV.pdf) (Indonesian)
+- 📃 My CV is [here (Indonesian)](https://github.com/user-attachments/files/28929519/CV.pdf)
 
 "*Clouds over the Moon, and Wind over the Flowers*"
 
