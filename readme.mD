@@ -1,14 +1,14 @@
 ### Hi there, I am init.DzEN 👋
 
-- 🌱 I’m currently learning PHP, Javascript, TypeScript, IoT, Networking, AI
+- 🌱 I’m currently learning Linux-Desktop, Networking, AI Coding, Javascript, TypeScript, Electricitan, IoT, PHP Language, BSD-OS
 - 💻 GNU/Linux User (CachyOS and EndeavourOS) w/ KDE Plasma Desktop
 - 🎶 Listening Music is My Hobbies, also travelling
-- 🏡 Lives in Indonesia 🇮🇩
+- 🏡 Lives in Indonesia 🇮🇩 (West Jakarta, Cirebon, Subang)
 - 🗣️ Language: Indonesian, English
 - 💼 Linkedin profile is: [Here](https://www.linkedin.com/in/dendy-octavian-8564281b7)
 - 🌏 Blogs: [goBlog](https://denzveloper.github.io/) or [Mirror IPv6](https://dzen2x.freeddns.org:8080)
 - 🛩️ Aeroplane Tracker Project: [PiAware SkyAware IPv6](https://dzen2x.freeddns.org:8888)
-- 🎭 Fandom of **東方 Project, 物語シリーズ**
+- 🎭 Fandom of **東方 Project, 物語シリーズ** (Touhou Project, Monogatari-Series)
 - 🔎 You can find me with the username init.dzen
 - ❓ Have any Question or Something? DM ME!
 - 📃 My CV is [here (Indonesian)](https://github.com/user-attachments/files/28929519/CV.pdf)
